@@ -5,8 +5,7 @@
 ###### A: GIT is a version control system developed by Linus Torvaldis that allows for more effective source code management.
 
 ## ***Q: What is the difference between Git and GitHub?***
-###### A: Git is a local version control system. GitHub is a cloud based version control system with a user interface. 
-It serves as a way to share code with others more effectively and allows for the repositories to be stored in a cloud.
+###### A: Git is a local version control system. GitHub is a cloud based version control system with a user interface. It serves as a way to share code with others more effectively and allows for the repositories to be stored in a cloud.
 
 ## ***Q: But what is a repository?***
 ###### A: A repository is a data structure that stores project or sets of project files. A developer may use a repository to store his project files and give collaborative access to other developers or to their organization.
