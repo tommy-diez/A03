@@ -32,5 +32,5 @@ It serves as a way to share code with others more effectively and allows for the
 ## ***Q: What is the fetch command?***
 ###### A: This allows you to retrieve commits and files from a remote repository.
 
-## ***Q: But what is a reomte?***
+## ***Q: But what is a remote?***
 ###### A: A remote is a common repoistory stored in cloud based source code management systems such as gitHub and can be cloned locally.
